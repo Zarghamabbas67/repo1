@@ -2,7 +2,7 @@ Step 1 : Add your github email and username to git
   git config --global user.email "yourGitHub@email.com"
   git config --global user.name "yourGitHubusername"
 
-
+ 
 Step 2 : Add file/folders to git - tracking
 
 Step 3 : Commands
